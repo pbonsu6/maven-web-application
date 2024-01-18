@@ -95,13 +95,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://54.193.102.10:8081/repository/maven-releases/</url>
+	      <url>http://13.52.214.141:8081/repository/Basil-releases/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://54.193.102.10:8081/repository/maven-snapshots/</url>
+	      <url>http://13.52.214.141:8081/repository/Basil-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
